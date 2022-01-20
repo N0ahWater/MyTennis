@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Channel 9
+http://117.20.65.254:9981/stream/channelid/1606769625
+#EXTINF:-1,9HD
+http://117.20.65.254:9981/stream/channelid/42747721
+#EXTINF:-1,9Gem
+http://117.20.65.254:9981/stream/channelid/1116797630
+#EXTINF:-1,9Go!
+http://117.20.65.254:9981/stream/channelid/1720794045
