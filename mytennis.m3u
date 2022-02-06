@@ -9,12 +9,6 @@ http://117.20.65.254:9981/stream/channelid/1116797630
 http://117.20.65.254:9981/stream/channelid/1720794045
 #EXTINF:0 type="stream" channelId="-1" size="Small", Tnt5
 http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" size="Small", EuroSport2
-http://iptvhdnew.com:8080/1805/1805/305
-#EXTINF:0 type="stream" channelId="-1" size="Small", Eurosport1
-http://iptvhdnew.com:8080/1805/1805/283
-#EXTINF:0 type="stream" channelId="-1" size="Small", Vivo
-http://185.41.244.69:80/eurosport1/tracks-v2a1a2/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" size="Small", Item 7
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
 #EXTINF:0 type="stream" channelId="-1" size="Small", Item 8
