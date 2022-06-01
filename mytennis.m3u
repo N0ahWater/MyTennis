@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,ABCTV HD
-http://117.20.65.254:9981/stream/channelid/728853196
+#EXTINF:-1,EuroSprots2
+http://195.154.182.197:8000/play/a02p/index.m3u8
 #EXTINF:-1,ABC TV
 http://117.20.65.254:9981/stream/channelid/1889904184
 #EXTINF:-1,ABCKids/TVPlus
@@ -13,12 +13,12 @@ http://117.20.65.254:9981/stream/channelid/42747721
 http://117.20.65.254:9981/stream/channelid/1116797630
 #EXTINF:-1,9Go!
 http://117.20.65.254:9981/stream/channelid/1720794045
-#EXTINF:0 type="stream" channelId="-1" size="Small", Tnt5
-http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" size="Small", Bein7
+http://93.152.174.144:4000/play/bein7/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" size="Small", Item 7
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
-#EXTINF:0 type="stream" channelId="-1" size="Small", Item 8
-http://145.239.142.113/BEIN-5-SD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" size="Small", Bein5
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:-1,Tennis Channel HD
 http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,Tennis Channel
