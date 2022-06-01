@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,EuroSprots2
-http://195.154.182.197:8000/play/a02p/index.m3u8
+#EXTINF:-1,EuroSprots1
+http://213.151.233.20:8000/dna-6069-tv-pc.m3u8
 #EXTINF:-1,ABC TV
 http://117.20.65.254:9981/stream/channelid/1889904184
 #EXTINF:-1,ABCKids/TVPlus
